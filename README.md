@@ -1,10 +1,10 @@
-🎟️ Ticket Tracking System
+Ticket Tracking System
 
 A modern Java Swing-based Ticket Management System designed for IT departments and organizations to efficiently manage support requests, asset inventories, and technician assignments.
 Built with a glass UI effect, gradient backgrounds, and responsive layout, this app features role-based access for Admins, Technicians, and Users.
 
 ------------------------------------------------------------
-🚀 Features
+Features
 ------------------------------------------------------------
 
 ADMIN PANEL
@@ -39,7 +39,7 @@ SYSTEM & UI FEATURES
 • Responsive layout that adapts to window resizing
 
 ------------------------------------------------------------
-🧩 Project Structure
+Project Structure
 ------------------------------------------------------------
 
 src/
@@ -52,7 +52,7 @@ src/
      └── resources/            - images and assets
 
 ------------------------------------------------------------
-💻 Requirements
+Requirements
 ------------------------------------------------------------
 
 • Java 17 or higher
@@ -68,7 +68,7 @@ openjdk version "17.0.11"
 Gradle 8.7
 
 ------------------------------------------------------------
-🧠 How to Run
+How to Run
 ------------------------------------------------------------
 
 1. Clone the repository:
@@ -84,7 +84,7 @@ Gradle 8.7
    Run Main.java in src/main/java/com/example/ticketstracker/ui/
 
 ------------------------------------------------------------
-👥 Default Login Accounts
+Default Login Accounts
 ------------------------------------------------------------
 
 Role         | Username | Password
@@ -98,7 +98,7 @@ Technician 4 | tech4    | tech4
 User 1–4     | user1–4  | same as username
 
 ------------------------------------------------------------
-🖼️ Customization
+Customization
 ------------------------------------------------------------
 
 Background Image:
@@ -108,7 +108,7 @@ Style Customization:
 Edit Style.java to adjust fonts, colors, button gradients, and transparency.
 
 ------------------------------------------------------------
-🧰 Example Gradle Build Script
+Example Gradle Build Script
 ------------------------------------------------------------
 
 plugins {
@@ -133,7 +133,7 @@ dependencies {
 }
 
 ------------------------------------------------------------
-📊 Future Enhancements
+Future Enhancements
 ------------------------------------------------------------
 
 • Database integration (SQLite / MySQL)
@@ -143,7 +143,7 @@ dependencies {
 • Role-based access logging
 
 ------------------------------------------------------------
-🧑‍💻 Developer
+Developer
 ------------------------------------------------------------
 
 David Harris
@@ -151,12 +151,12 @@ MSc Cyber Security | UWE Bristol
 Email: davidharris200111@gmail.com
 
 ------------------------------------------------------------
-📜 License
+License
 ------------------------------------------------------------
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this software for personal purposes.
 
 ------------------------------------------------------------
-💡 Built with love, Swing, and a touch of glass by David Harris (2025)
+Built with love, Swing, and a touch of glass by David Harris (2025)
 ------------------------------------------------------------
